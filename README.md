@@ -1,3 +1,4 @@
+
 # ClassLogistics
 ### How to Submit an Assignment
 1. Log in to gradescope.
