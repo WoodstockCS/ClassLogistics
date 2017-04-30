@@ -1,5 +1,5 @@
 
-# ClassLogistics
+# Class Logistics
 ### How to Submit an Assignment
 1. Log in to gradescope.
 1. Select the assignment you want to submit.
